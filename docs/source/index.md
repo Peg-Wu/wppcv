@@ -46,3 +46,7 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 - Email: peg2_wu@163.com
 - Github: https://github.com/Peg-Wu
+
+
+
+<b style="color: red; background-color: yellow">如果生活给了你一个柠檬，你应该再加点盐和龙舌兰。</b>
