@@ -26,7 +26,7 @@ pip3 install sphinx_markdown_tables
 
 ```bash
 mkdir <project_name>
-aphinx-quickstart
+sphinx-quickstart
 ```
 
 > 项目创建完成，目录结构如下：
