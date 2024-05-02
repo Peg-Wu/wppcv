@@ -48,7 +48,7 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 - Email: peg2_wu@163.com
 
-## Link
+## Links
 
 ---
 
@@ -58,7 +58,9 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 ---
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc"></script>
+<div id="clustrmaps" style="transform: scale(0.5)">
+    <script type="text/javascript" src="//clustrmaps.com/globe.js?d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc"></script>
+</div>
 
 
 
