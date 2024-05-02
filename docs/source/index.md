@@ -36,6 +36,8 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 ---
 
+<b style="color: blue">\# <u>First Author</u></b>&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: blue">\* <u>Corresponding Author</u></b>
+
 <b style="color: red">2023</b>
 
 1. **Pengpeng Wu#**, Zhenjun Nie, Zhiqiang Huang, **Xiaodan Zhang***. [CircPCBL: Identification of Plant CircRNAs with a CNN-BiGRU-GLT Model](https://www.mdpi.com/2223-7747/12/8/1652). **<u>Plants-Basel</u>**
@@ -45,8 +47,13 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 ---
 
 - Email: peg2_wu@163.com
-- Github: https://github.com/Peg-Wu
+
+## Link
+
+---
+
+[Github](https://github.com/Peg-Wu)
 
 
 
-<b style="color: red; background-color: yellow">如果生活给了你一个柠檬，你应该再加点盐和龙舌兰。</b>
+<b style="color: red; background-color: yellow">Keep Moving</b>
