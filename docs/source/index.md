@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SimHei&pause=1000&color=1600F7&random=false&width=500&lines=%E5%81%87%E5%A6%82%E7%94%9F%E6%B4%BB%E7%BB%99%E4%BA%86%E4%BD%A0%E4%B8%80%E4%B8%AA%E6%9F%A0%E6%AA%AC%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%86%8D%E5%8A%A0%E7%82%B9%E7%9B%90%E5%92%8C%E9%BE%99%E8%88%8C%E5%85%B0%E3%80%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SimHei&pause=1000&color=DC01F7&random=false&width=500&lines=%E5%81%87%E5%A6%82%E7%94%9F%E6%B4%BB%E7%BB%99%E4%BA%86%E4%BD%A0%E4%B8%80%E4%B8%AA%E6%9F%A0%E6%AA%AC%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%86%8D%E5%8A%A0%E7%82%B9%E7%9B%90%E5%92%8C%E9%BE%99%E8%88%8C%E5%85%B0%E3%80%82;%E6%AC%B2%E4%B9%B0%E6%A1%82%E8%8A%B1%E5%90%8C%E8%BD%BD%E9%85%92%EF%BC%8C%E7%BB%88%E4%B8%8D%E4%BC%BC%EF%BC%8C%E5%B0%91%E5%B9%B4%E6%B8%B8%E3%80%82)](https://git.io/typing-svg)
 
 # Pengpeng Wu's Homepage (武鹏鹏)
 
