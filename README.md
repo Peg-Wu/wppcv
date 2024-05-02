@@ -153,7 +153,7 @@ pip freeze > requirements.txt
 
 - readthedocs: https://readthedocs.org/
 
-# 🚦Visitors -- readthedocs pages
+# 🔥Visitors -- readthedocs pages
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<a href='https://clustrmaps.com/site/1bzjg'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc&co=2d78ad&ct=ffffff'/></a>
 
