@@ -60,5 +60,4 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc&w=200"></script>
 
-<b style="color: red; background-color: yellow">Keep Moving</b>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
