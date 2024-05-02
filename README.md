@@ -152,8 +152,3 @@ pip freeze > requirements.txt
 ## 8. Upload to github & readthedocs, Done!
 
 - readthedocs: https://readthedocs.org/
-
-# 🔥Visitors -- readthedocs pages
-
-<a href='https://clustrmaps.com/site/1bzjg'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc&co=2d78ad&ct=ffffff'/></a>
-
