@@ -5,7 +5,8 @@
 <div style="text-align: center;">
   <img src="_static/photo.jpg" alt="photo" style="zoom: 10%;">
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&pause=1000&color=FF0000&vCenter=true&random=true&width=500&lines=Attention+Is+All+You+Need.;Patience+Is+the+Key+to+Success.;Action+Speaks+Louder+Than+Words.;Passion+Ignites+Potential.;Vision+Sets+the+Destination.;Keep+Moving.;Believe+in+Yourself+and+All+That+You+Are.;The+Harder+You+Work%2C+The+Luckier+You+Get.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Attention+Is+All+You+Need.)](https://git.io/typing-svg)
 
 ## Biography
 
