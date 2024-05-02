@@ -152,7 +152,3 @@ pip freeze > requirements.txt
 ## 8. Upload to github & readthedocs, Done!
 
 - readthedocs: https://readthedocs.org/
-
-# Visitors
-
-<a href="https://info.flagcounter.com/oJOP"><img src="img/flags_0.png" alt="Flag Counter" border="0"></a>
