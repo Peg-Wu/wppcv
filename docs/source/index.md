@@ -58,6 +58,7 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; display: inline-block; width: 250px;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc&w=250"></script>
 </div>
+
