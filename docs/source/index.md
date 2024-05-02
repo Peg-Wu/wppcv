@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SimHei&pause=1000&color=1600F7&random=false&width=500&lines=%E5%81%87%E5%A6%82%E7%94%9F%E6%B4%BB%E7%BB%99%E4%BA%86%E4%BD%A0%E4%B8%80%E4%B8%AA%E6%9F%A0%E6%AA%AC%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%86%8D%E5%8A%A0%E7%82%B9%E7%9B%90%E5%92%8C%E9%BE%99%E8%88%8C%E5%85%B0%E3%80%82)](https://git.io/typing-svg)
+
 # Pengpeng Wu's Homepage (武鹏鹏)
 
 ---
@@ -5,7 +7,6 @@
 <div style="text-align: center;">
   <img src="_static/photo.jpg" alt="photo" style="zoom: 10%;">
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&pause=1000&color=F70000&random=false&width=435&lines=Attention+Is+All+You+Need.)](https://git.io/typing-svg)
 
 ## Biography
 
