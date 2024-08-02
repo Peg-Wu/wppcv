@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&pause=1000&color=A801FF&vCenter=true&random=false&width=450&height=40&lines=%F0%9F%94%A5+Welcome+to+my+Personal+Page!+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&pause=1000&color=A801FF&width=435&lines=WELCOME+TO+MY+PERSONAL+PAGE!;KNOW+YOURSELF+AND+KEEP+YOURSELF!)](https://git.io/typing-svg)
+
 
 # Pengpeng Wu's Homepage (武鹏鹏)
+
 
 <div style="text-align: center;">
   <img src="_static/photo.jpg" alt="photo" style="zoom: 10%;">
@@ -22,11 +24,9 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 # Research Interests
 
-- [x] Bioinformatics
-
-- [x] Multi-Omics Data Analysis (scRNA-seq etc.)
-
-- [x] Machine Learning & Deep Learning
+- Bioinformatics
+- Multi-Omics Data Analysis (scRNA-seq etc.)
+- Machine Learning & Deep Learning
 
 # Publications
 
@@ -34,15 +34,16 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 <b style="color: red">2023</b>
 
-1. **Pengpeng Wu#**, Zhenjun Nie, Zhiqiang Huang, **Xiaodan Zhang***. [CircPCBL: Identification of Plant CircRNAs with a CNN-BiGRU-GLT Model](https://www.mdpi.com/2223-7747/12/8/1652). **<u>Plants-Basel</u>**
+1. **Pengpeng Wu#**, Zhenjun Nie, Zhiqiang Huang, **Xiaodan Zhang***. [CircPCBL: Identification of Plant CircRNAs with a CNN-BiGRU-GLT Model](https://www.mdpi.com/2223-7747/12/8/1652). **<u>Plants-Basel</u>** [<b style="color: green">[Software]</b>](https://github.com/Peg-Wu/CircPCBL)
 
 # Contact
 
-- Email: peg2_wu@163.com
+- Email 1: peg2_wu@163.com <b style="color: red">(Primary)</b>
+- Email 2: wupengpeng@tongji.edu.cn
 
 # Links
 
-[Github](https://github.com/Peg-Wu)
+| [Github](https://github.com/Peg-Wu) | [WangLab](https://wanglabtongji.github.io) | [Tongji University ](https://www.tongji.edu.cn)| [School of Life Sciences and Technology](https://life.tongji.edu.cn/main.htm) |
 
 # Visitors
 
