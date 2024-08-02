@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&pause=1000&color=A801FF&width=435&lines=WELCOME+TO+MY+PERSONAL+PAGE!;KNOW+YOURSELF+AND+KEEP+YOURSELF!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&pause=1000&color=A801FF&width=435&lines=%F0%9F%94%A5+WELCOME+TO+MY+PERSONAL+PAGE!;%F0%9F%94%A5+KNOW+YOURSELF+AND+KEEP+YOURSELF!)](https://git.io/typing-svg)
 
 
 # Pengpeng Wu's Homepage (武鹏鹏)
