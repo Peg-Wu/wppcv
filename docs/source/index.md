@@ -2,21 +2,15 @@
 
 # Pengpeng Wu's Homepage (武鹏鹏)
 
----
-
 <div style="text-align: center;">
   <img src="_static/photo.jpg" alt="photo" style="zoom: 10%;">
 </div>
 
 ## Biography
 
----
-
 I am currently a graduate student majoring in Bioinformatics at Tongji University, under the guidance of Professor [Chenfei Wang](https://life.tongji.edu.cn/46/27/c12618a149031/page.htm).
 
 ## Education
-
----
 
 - Anhui Agricultural University (AAU), China
 
@@ -28,15 +22,13 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 ## Research Interests
 
----
-
 - Bioinformatics
-- Omics Data Analysis (scRNA-seq)
+
+- Multi-Omics Data Analysis (scRNA-seq etc.)
+
 - Machine Learning & Deep Learning
 
 ## Publications
-
----
 
 <b style="color: blue">\# <u>First Author</u></b>&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: blue">\* <u>Corresponding Author</u></b>
 
@@ -46,18 +38,12 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 ## Contact
 
----
-
 - Email: peg2_wu@163.com
 
 ## Links
 
----
-
 [Github](https://github.com/Peg-Wu)
 
 ## Visitors
-
----
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc&w=250"></script>
