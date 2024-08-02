@@ -6,11 +6,11 @@
   <img src="_static/photo.jpg" alt="photo" style="zoom: 10%;">
 </div>
 
-## Biography
+# Biography
 
 I am currently a graduate student majoring in Bioinformatics at Tongji University, under the guidance of Professor [Chenfei Wang](https://life.tongji.edu.cn/46/27/c12618a149031/page.htm).
 
-## Education
+# Education
 
 - Anhui Agricultural University (AAU), China
 
@@ -20,15 +20,15 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
   
   M.S.&nbsp;&nbsp;&nbsp;&nbsp;2024.09 - now&nbsp;&nbsp;&nbsp;&nbsp;Major: Bioinformatics&nbsp;&nbsp;&nbsp;&nbsp;Advisors: Prof. [Chenfei Wang](https://life.tongji.edu.cn/46/27/c12618a149031/page.htm)
 
-## Research Interests
+# Research Interests
 
-- Bioinformatics
+- [x] Bioinformatics
 
-- Multi-Omics Data Analysis (scRNA-seq etc.)
+- [x] Multi-Omics Data Analysis (scRNA-seq etc.)
 
-- Machine Learning & Deep Learning
+- [x] Machine Learning & Deep Learning
 
-## Publications
+# Publications
 
 <b style="color: blue">\# <u>First Author</u></b>&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: blue">\* <u>Corresponding Author</u></b>
 
@@ -36,14 +36,14 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 1. **Pengpeng Wu#**, Zhenjun Nie, Zhiqiang Huang, **Xiaodan Zhang***. [CircPCBL: Identification of Plant CircRNAs with a CNN-BiGRU-GLT Model](https://www.mdpi.com/2223-7747/12/8/1652). **<u>Plants-Basel</u>**
 
-## Contact
+# Contact
 
 - Email: peg2_wu@163.com
 
-## Links
+# Links
 
 [Github](https://github.com/Peg-Wu)
 
-## Visitors
+# Visitors
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cMuCMHUUQdD6uLRw-SJWj0bBsgXle74QRc_UT2MKMdc&w=250"></script>
