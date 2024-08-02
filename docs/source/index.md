@@ -24,9 +24,7 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 # Research Interests
 
-- Bioinformatics
-- Multi-Omics Data Analysis (scRNA-seq etc.)
-- Machine Learning & Deep Learning
+| ***<u>Bioinformatics</u>*** | ***<u>Multi-Omics Data Analysis (scRNA-seq etc.)</u>*** | ***<u>Machine Learning & Deep Learning</u>*** |
 
 # Publications
 
@@ -38,8 +36,8 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 # Contact
 
-- Email 1: peg2_wu@163.com <b style="color: red">(Primary)</b>
-- Email 2: wupengpeng@tongji.edu.cn
+- Email: peg2_wu@163.com
+- Please feel free to contact me!
 
 # Links
 
