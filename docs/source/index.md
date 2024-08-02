@@ -32,12 +32,11 @@ I am currently a graduate student majoring in Bioinformatics at Tongji Universit
 
 <b style="color: red">2023</b>
 
-1. **Pengpeng Wu#**, Zhenjun Nie, Zhiqiang Huang, **Xiaodan Zhang***. [CircPCBL: Identification of Plant CircRNAs with a CNN-BiGRU-GLT Model](https://www.mdpi.com/2223-7747/12/8/1652). **<u>Plants-Basel</u>** [<b style="color: green">[Software]</b>](https://github.com/Peg-Wu/CircPCBL)
+1. **Pengpeng Wu#**, Zhenjun Nie, Zhiqiang Huang, **Xiaodan Zhang***. [CircPCBL: Identification of Plant CircRNAs with a CNN-BiGRU-GLT Model](https://www.mdpi.com/2223-7747/12/8/1652). **<u>Plants-Basel</u>** [<b style="color: blue">[Software]</b>](https://github.com/Peg-Wu/CircPCBL)
 
 # Contact
 
-- Email: peg2_wu@163.com
-- Please feel free to contact me!
+- Email: peg2_wu@163.com (Please feel free to contact me!)
 
 # Links
 
